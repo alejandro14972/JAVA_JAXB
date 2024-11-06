@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><libreria><Listalibros><Libro><autor>jandro</autor><nombre>datos</nombre><editorial>Teide</editorial><isbn>1234</isbn></Libro><Libro><autor>Victor</autor><nombre>PHP</nombre><editorial>Anaya</editorial><isbn>1254</isbn></Libro></Listalibros><lugar>Oviedo</lugar><nombre>Mi libreria</nombre></libreria>
